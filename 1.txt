@@ -1,3 +1,0 @@
-for add at once on git bash
-git add --all
-git add
